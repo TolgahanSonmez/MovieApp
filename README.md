@@ -12,10 +12,10 @@
 - I used Swift Package Manager  with the support of URLSession to contact Themoviedb API
 
 
-![screenshot1](https://user-images.githubusercontent.com/107931897/228190959-3764a3f9-eb82-4ab7-bd94-6dbd8c954204.jpeg)
+![screenshot1](https://user-images.githubusercontent.com/107931897/228192433-1bff8ba6-d44d-4a53-9c0c-2c9e61fc0f48.png)
 
-![screenshot2](https://user-images.githubusercontent.com/107931897/228190968-33b1ec74-89a9-4c4d-bb86-1647ae6ee20a.jpeg)
+![screenshot2](https://user-images.githubusercontent.com/107931897/228192444-a7270a5e-1231-4d9e-be74-0d92e1bc3e5d.png)
 
-![screenshot3](https://user-images.githubusercontent.com/107931897/228190974-a95e3957-300f-497e-b5e9-2ecbaef56365.jpeg)
+![screenshot3](https://user-images.githubusercontent.com/107931897/228192454-92c1880f-26dd-4251-8913-4f8932fc9550.png)
 
-![screenshot4](https://user-images.githubusercontent.com/107931897/228190979-5b510d28-9c7f-4a21-8d48-cd222a667fe6.jpeg)
+![screenshot4](https://user-images.githubusercontent.com/107931897/228192463-027fdb31-b7c9-4e0c-85f1-018a8a4bb9fa.png)
